@@ -1,0 +1,6 @@
+pandas
+streamlit
+matplotlib
+scikit-learn
+opencv-python  # Replaces cv2
+numpy

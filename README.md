@@ -1,6 +1,6 @@
-**DigitSense – AI-Powered Handwritten Digit Recognition
-**
-#Introduction
+DigitSense – AI-Powered Handwritten Digit Recognition
+
+Introduction
 
 DigitSense is a machine learning-powered web application that recognizes handwritten digits. Built using Random Forest, Streamlit, and Docker, this project enables users to input digits and receive real-time predictions. The model is deployed on AWS EC2 for cloud-based accessibility.
 
